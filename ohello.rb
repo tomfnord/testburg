@@ -1,3 +1,7 @@
 FANCY_CONST = 7
 
-puts "O hello."
+def hello
+  puts "O hello."
+end
+
+hello
