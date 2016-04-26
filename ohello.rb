@@ -1,1 +1,5 @@
-puts "O hello."
+def hello
+  puts "O hello."
+end
+
+hello
